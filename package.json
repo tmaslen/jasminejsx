@@ -1,0 +1,27 @@
+{
+  "name": "jasminejsx",
+  "description": "A port of Jasmine 2.2.0 that is compatible with Adobe ExtendScript",
+  "version": "0.0.0",
+  "homepage": "http://github.com/tmaslen/jasminejsx.git",
+  "contributors": [{
+    "name": "Tom Maslen",
+    "email": "tom_maslen@hotmail.com"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmaslen/jasminejsx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmaslen/jasminejsx/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "Adobe Illustrator",
+    "extendscript",
+    "testing",
+    "jasmine",
+    "unit testing"
+  ]
+}
